@@ -4,9 +4,7 @@ A real-time financial dashboard for the Saudi Stock Exchange (Tadawul), built wi
 
 ## Live Demo
 
-```bash
-streamlit run app_fundamental.py
-```
+[View Dashboard](https://saudistockmarketdashboard-gejohvbeevqdh45n7mgdjs.streamlit.app/)
 
 ## Features
 
