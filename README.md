@@ -2,6 +2,12 @@
 
 A real-time financial dashboard for the Saudi Stock Exchange (Tadawul), built with **Python** and **Streamlit**. Covers all **223 TASI-listed stocks** across **21 sectors**. Powered by the [SAHMK API](https://app.sahmk.sa) for live market data.
 
+## Live Demo
+
+```bash
+streamlit run app_fundamental.py
+```
+
 ## Features
 
 - **Market Summary** — TASI index, market mood, top dividend yielders, sector ROE heatmap
